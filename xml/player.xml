@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <header>Player</header>
+  <content>
+    <showTierFilter />
+    <h2><playerlink><value name="player_name" /></playerlink> - <value name="player_class" /></h2>
+    <div id="player_details">
+      <p><strong>Rank: </strong> <value name="player_rank" /></p>
+      <p><strong>Current DKP: </strong> <value name="current_dkp" /></p>
+      <p><strong>Earned DKP: </strong> <value name="earned_dkp" /></p>
+      <p><strong>Spent DKP: </strong> <value name="spent_dkp" /></p>
+      <p><strong>Raid Attendance: </strong> <value name="raid_percent" /></p>
+    </div>
+    <displayPlayer />
+  </content>
+  <footer />
+</page>

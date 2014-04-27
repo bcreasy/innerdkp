@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <header>Player</header>
+  <content>
+    <h2><value name="item_name" /></h2>
+    <div id="player_details">
+      <p><strong>DKP Value: </strong> <value name="dkp_value" /></p>
+      <p><strong>Total Times Looted: </strong> <value name="total_loot_times" /></p>
+      <p><strong>Offspec Times Looted: </strong> <value name="offspec_loot_times" /></p>
+    </div>
+    <displayWowheadLink />
+    <displayItem />
+  </content>
+  <footer />
+</page>

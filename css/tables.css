@@ -1,0 +1,41 @@
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: small;
+}
+
+table a:link { color: #00f; }
+table a:visited { color: #00f; }
+table a:hover { color: #00f; }
+table a:active { color: #00f; }
+
+table thead tr.pagination {
+	display: none;
+}
+
+table thead tr th {
+	border-bottom: 1px solid #eee;
+}
+
+table thead tr th {
+	font-size: 90%;
+	text-align: left;
+	padding: 3px;
+}
+
+table tbody tr {
+	background: transparent;
+}
+
+table tbody tr.even {
+	background: #eee;
+}
+
+div.class_list table tbody tr.even {
+	background: #fff;
+}
+
+table tbody tr td {
+	font-size: 90%;
+	padding: 3px;
+}

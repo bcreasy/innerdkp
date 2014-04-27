@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <header>Player List</header>
+  <content>
+    <showTierFilter />
+    <displayPlayerTables />
+  </content>
+  <footer />
+</page>

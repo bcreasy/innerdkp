@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+  <header>Raid</header>
+  <content>
+    <h2><value name="raid_date" /> - <value name="raid_instance" />: <value name="raid_event" /></h2>
+    <h4>Raid Note: <value name="raid_note" /></h4>
+    <displayRaid />
+  </content>
+  <footer />
+</page>
